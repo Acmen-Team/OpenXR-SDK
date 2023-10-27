@@ -67,3 +67,10 @@ local.properties
 # Output artifact
 *.aar
 *.pom
+
+/bin
+/bin-int
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
